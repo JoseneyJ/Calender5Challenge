@@ -33,3 +33,5 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+<img width="1371" alt="Screenshot 2023-01-28 at 2 22 59 PM" src="https://user-images.githubusercontent.com/119374215/215288431-b9fd93b2-2778-41ac-87de-500df8214ff4.png">
+
