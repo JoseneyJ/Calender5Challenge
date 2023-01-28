@@ -1,5 +1,5 @@
 # Week5Challenge
-# 05 Third-Party APIs: Work Day Scheduler
+# Third-Party APIs: Work Day Scheduler
 
 ## Your Task
 
